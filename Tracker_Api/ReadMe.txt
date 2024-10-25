@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Data Source=DESKTOP-3VKH768;Initial Catalog=Tracker;Persist Security Info=True;User ID=PCU;Password=admin;TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models/TrackerContext -ContextDir "Models" -Context TrackerContext -f
